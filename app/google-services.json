@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576463161261",
+    "project_id": "muhammet-java62",
+    "storage_bucket": "muhammet-java62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576463161261:android:353757a885ca6adf614324",
+        "android_client_info": {
+          "package_name": "com.vektorel.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576463161261-qdloe30itg9jm23i1grg5ev6khaqk7kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8seQKzMCsoYrzDhCHsm0XJ01fGWKCsFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576463161261-qdloe30itg9jm23i1grg5ev6khaqk7kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
